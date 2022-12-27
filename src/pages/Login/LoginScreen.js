@@ -10,7 +10,7 @@ const LoginScreen = ({ navigation }) => {
 
     return (
         <View style={styles.container}>
-        <Text style={styles.header}>{`Notes App`}</Text>
+        <Text style={styles.header}>{`My Notes`}</Text>
         <Text style={styles.title}>{`Login`}</Text>
             <TextInput
                 value={user}
@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
         flex: 1,
         alignItems: "center",
         justifyContent: "center",
-        backgroundColor: "#D3C4BE",
+        backgroundColor: "#b0e0e6",
     },
     header: {
       paddingLeft: 8,
