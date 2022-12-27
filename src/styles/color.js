@@ -1,12 +1,12 @@
 const COLORS = {
-    homeBackgroud: '#D3C4BE',
-    noteBackground: '#D3C4BE',
+    homeBackgroud: '#b0e0e6',
+    noteBackground: '#b0e0e6',
     notes:'#000000',
-    header: '#A17A69',
+    header: '#87cefa',
     headerButtons:'#000',
-    addButton:'#8B4513',
-    loading:'#8B4513',
-    searchBar:'#d3d3d3'
+    addButton:'#b0c4de',
+    loading:'#e6e6fa',
+    searchBar:'#b0c4de'
 }
 
 export default COLORS;
