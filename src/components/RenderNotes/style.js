@@ -5,7 +5,7 @@ const width = (Dimensions.get('window').width - 60)/2
 const height = (Dimensions.get('window').height - 400)/2
 const style = StyleSheet.create({
     noteArea:{
-        backgroundColor: '#D3C4BE',
+        backgroundColor: '#b0e0e6',
         width: width,
         height: height,
         padding: 10,
